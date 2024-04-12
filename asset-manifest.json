@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/spin-wheel/static/css/main.3cee8def.css",
+    "main.js": "/spin-wheel/static/js/main.8878cccf.js",
+    "static/js/453.c0a30919.chunk.js": "/spin-wheel/static/js/453.c0a30919.chunk.js",
+    "index.html": "/spin-wheel/index.html",
+    "main.3cee8def.css.map": "/spin-wheel/static/css/main.3cee8def.css.map",
+    "main.8878cccf.js.map": "/spin-wheel/static/js/main.8878cccf.js.map",
+    "453.c0a30919.chunk.js.map": "/spin-wheel/static/js/453.c0a30919.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cee8def.css",
+    "static/js/main.8878cccf.js"
+  ]
+}
