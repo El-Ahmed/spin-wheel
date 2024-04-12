@@ -1,0 +1,27 @@
+.spinButtonBackground {
+    background-color: #333;
+    rotate: 45deg;
+    z-index: -1;
+}
+.absolute {
+    position: absolute
+}
+.container {
+    position: relative;
+}
+.spinButtonContainer {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.spinButton {
+    color: white;
+    font-weight: bold;
+    user-select: none;
+}

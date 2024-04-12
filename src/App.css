@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.topContainer {
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+  width: fit-content;
+}
+
+.componentContainer {
+  margin: 50px;
+}
+
